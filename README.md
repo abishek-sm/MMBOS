@@ -12,6 +12,9 @@ for example:
 java -jar ELMM_MinMinAlg2.jar "/home/usr/data.txt" "/home/usr/dc_matrix.txt" "bsdc300" 300
 will recover 300,000 edges in the network
 
+# Result
+The figure (PRpanel.png) shows Precision recall curve for some of the popular algorithms like ARACNe, CLR applied over different settings of simulated data. 
+
 
 
 
