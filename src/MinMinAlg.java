@@ -12,7 +12,6 @@ import java.util.List;
 
 public class MinMinAlg {
     static double corrAVG = 0;
-    
     public static void main(String[] args){
         String filePath, outputFile,scorefile;
         filePath = "C:/Users/cumc/Desktop/dream4size100multifactorial/net5/data.txt";
